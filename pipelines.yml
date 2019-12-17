@@ -1,5 +1,5 @@
 pipelines: 
-  - name: pipelines_state_test
+  - name: pipelines8
     steps:
       - name: pipe_state
         type: Bash
